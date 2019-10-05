@@ -1,0 +1,19 @@
+pre, p {
+    font-size: 1.5em;
+    color: #FE7F88;
+    background-color: transparent;
+}
+
+div {
+  background-image: url("http://policlinicatachira.com.ve/sitio/images/Slide4_4.jpg");
+}
+
+p {
+  background-image: none;
+}
+
+.catsandstars {
+  background-image:  url("http://policlinicatachira.com.ve/sitio/images/Slide4_4.jpg");
+                     url("http://policlinicatachira.com.ve/sitio/images/Slide4_4.jpg");
+  background-color: transparent;
+}
